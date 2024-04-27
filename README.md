@@ -8,3 +8,5 @@ is the first player to align their three pieces on a line drawn on the board. Th
 take turns placing their pieces on empty intersections. Once all pieces are placed (assuming there is no winner by then), play 
 proceeds with each player moving one of their pieces per turn. A piece may move only to any adjacent empty position. A player
 wins if thereby they get three pieces in a line.
+
+https://github.com/AbdelrahmanJaber/Three-Men-Morris/assets/113253216/2a400f2b-e629-4a3e-a160-c1cfee69ece8
