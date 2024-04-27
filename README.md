@@ -9,4 +9,6 @@ take turns placing their pieces on empty intersections. Once all pieces are plac
 proceeds with each player moving one of their pieces per turn. A piece may move only to any adjacent empty position. A player
 wins if thereby they get three pieces in a line.
 
+I used Alpha–beta pruning algorithm for the AI agent
+
 https://github.com/AbdelrahmanJaber/Three-Men-Morris/assets/113253216/2a400f2b-e629-4a3e-a160-c1cfee69ece8
