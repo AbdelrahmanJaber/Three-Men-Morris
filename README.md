@@ -1,4 +1,4 @@
-# Three-Men-Morris
+# Three-Men-Morris-Game
 
 Three Men's Morris is a strategic symmetric two-player board game played on a three by three point grid (node). 
 Each player has three pieces. All the pieces have same movement i.e. each piece can move straight to adjacent node only.
